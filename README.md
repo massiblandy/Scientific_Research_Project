@@ -1,4 +1,14 @@
-# RoboFEI-HT_2023_SOFTWARE
+# 🤖 Using convolutional neural networks for recognition and localization of visual landmarks for a humanoid robot
+---
+## Descrição
+This repository presents the Undergraduate Scientific Research project developed to enhance the localization and decision-making capabilities of the humanoid robot from the RoboFEI team, which participates in humanoid robot soccer games. To improve the robot's efficiency in locating itself on the soccer field, an algorithm was implemented to detect landmarks on the field, as well as to measure the distance between the robot and the identified elements.
+
+The project involved the study and application of computer vision and image recognition techniques, such as Convolutional Neural Networks. The results achieved confirm the effectiveness of the algorithm, demonstrating that the detection of landmarks and distance calculation were carried out with good precision.
+
+
+
+
+
 
 This repository contains the code written using ROS2, by RoboFEI team, which is currently used in our physical robots. 
 
