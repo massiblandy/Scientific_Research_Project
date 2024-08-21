@@ -65,6 +65,6 @@ This project was developed as part of an Undergraduate Scientific Research progr
 ---
 The Scientific Research is oriented by the professor [@Reinaldo Bianchi](https://www.linkedin.com/in/reinaldo-bianchi-b343468/).
 
-Massiel Blandy Ramón - [Linkedin](www.linkedin.com/in/massiel-blandy-ramón-65214829a) - massi00br@gmail.com
+Massiel Blandy Ramón - [Linkedin](https://www.linkedin.com/in/massiel-blandy-ram%C3%B3n-65214829a/) - massi00br@gmail.com
 
 [https://github.com/massiblandy](https://github.com/massiblandy)
