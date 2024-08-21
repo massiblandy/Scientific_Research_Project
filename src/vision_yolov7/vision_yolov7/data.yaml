@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['center', 'goalpost', 'penalti']
+
+roboflow:
+  workspace: al-rihla
+  project: al-rihla
+  version: 15
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/al-rihla/al-rihla/dataset/15

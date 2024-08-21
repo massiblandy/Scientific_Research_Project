@@ -1,0 +1,13 @@
+train: ./localization//train/images
+val: ./localization/valid/images
+test: ./test/images
+
+nc: 3
+names: ['center', 'goalpost', 'penalti']
+
+# roboflow:
+#   workspace: torso
+#   project: torso-iw67e
+#   version: 2
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/torso/torso-iw67e/dataset/2
