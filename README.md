@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RoboFEI-HT_2023_SOFTWARE
 
 This repository contains the code written using ROS2, by RoboFEI team, which is currently used in our physical robots. 
@@ -65,7 +64,3 @@ It is divided in 8 packages:
     - Vision: 
     
         ```$ ros2 run vision_pkg vision --vb```
-=======
-# Iniciacao_Cientifica
-This repository contains the code for the development of the Undergraduate Scientific Research: Using convolutional neural networks for recognition and localization of visual landmarks for a humanoid robot. In this project, a code was developed for the detection and recognition of landmarks within the soccer field of humanoid robots. 
->>>>>>> ae86c724c20536a580739f25db2d9153862049d7
