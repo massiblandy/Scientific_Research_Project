@@ -58,6 +58,17 @@ source install/setup.bash
     - The node will display a real-time video feed with the detected landmarks and bounding boxes drawn on the video stream.
     - The distance calculations will be logged in the console.
 
+After running the detection code (detect.py), the camera will open, and images like the ones presented below should appear. The code will start measuring the distance between the robot and the landmark when the landmark is centralized in the camera's vertical axis.
+<p align="center">
+  <img src="imgs/img2.jpeg" />
+</p>
+<p align="center">
+  <img src="imgs/img3.jpeg" />
+</p>
+<p align="center">
+  <img src="imgs/img4.jpeg" />
+</p>
+
 ---
 ## Results
 The results of this project demonstrated that the implemented algorithm was successful in detecting the visual landmarks on the soccer field and accurately calculating the distance between the robot and these landmarks. The system showed robustness in different lighting conditions and varying perspectives, contributing to improved localization and decision-making by the humanoid robot.
