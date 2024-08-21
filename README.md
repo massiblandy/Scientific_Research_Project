@@ -78,7 +78,7 @@ The results of this project demonstrated that the implemented algorithm was succ
 This project was developed as part of an Undergraduate Scientific Research program at Centro Universitário FEI. Special thanks to the RoboFEI team for their support and collaboration throughout the project.
 
 ---
-The Scientific Research is oriented by the professor [@Reinaldo Bianchi](https://www.linkedin.com/in/reinaldo-bianchi-b343468/).
+This Scientific Research is supervised by professor [@Reinaldo Bianchi](https://www.linkedin.com/in/reinaldo-bianchi-b343468/).
 
 Massiel Blandy Ramón - [Linkedin](https://www.linkedin.com/in/massiel-blandy-ram%C3%B3n-65214829a/) - massi00br@gmail.com
 
