@@ -37,24 +37,24 @@ colcon build --symlink-install
 source install/setup.bash
 ```
 5. Run the different codes:
-    - Control: 
-        ```sh 
-        ros2 launch control action.launch.py
-        ```
     - Motors:
         ```sh 
         ros2 run dynamixel_sdk_examples read_write_node
         ```  
-    - Landmarks detection code:
+    - Control: 
         ```sh 
-        ros2 run vision_yolov7 detect
+        ros2 launch control action.launch.py
         ```
     - To run a specific movement of the robot (in this project was just used the stand still movement):
         ```sh 
         ros2 action send_goal  /control_action custom_interfaces/action/Control "{action_number: 1}"
         ```
-6. Make sure to also install any required dependencies as needed.
-7. Visualize the detected landmarks:
+    - Landmarks detection code:
+        ```sh 
+        ros2 run vision_yolov7 detect
+        ```
+7. Make sure to also install any required dependencies as needed.
+8. Visualize the detected landmarks:
     - The node will display a real-time video feed with the detected landmarks and bounding boxes drawn on the video stream.
     - The distance calculations will be logged in the console.
 
