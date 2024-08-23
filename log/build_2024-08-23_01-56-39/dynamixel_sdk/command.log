@@ -1,2 +1,0 @@
-Invoking command in '/home/massiel/Scientific_Research_Project/build/dynamixel_sdk': /usr/bin/cmake /home/massiel/Scientific_Research_Project/src/robotis_ws/src/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/massiel/Scientific_Research_Project/install/dynamixel_sdk
-Invoked command in '/home/massiel/Scientific_Research_Project/build/dynamixel_sdk' returned '1': /usr/bin/cmake /home/massiel/Scientific_Research_Project/src/robotis_ws/src/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/massiel/Scientific_Research_Project/install/dynamixel_sdk
