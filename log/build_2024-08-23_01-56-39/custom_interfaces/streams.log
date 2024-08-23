@@ -1,0 +1,33 @@
+[0.040s] Invoking command in '/home/massiel/Scientific_Research_Project/build/custom_interfaces': /usr/bin/cmake /home/massiel/Scientific_Research_Project/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/massiel/Scientific_Research_Project/install/custom_interfaces
+[5.736s] -- The C compiler identification is GNU 11.4.0
+[10.216s] -- The CXX compiler identification is GNU 11.4.0
+[10.666s] -- Detecting C compiler ABI info
+[11.672s] -- Detecting C compiler ABI info - done
+[11.688s] -- Check for working C compiler: /usr/bin/cc - skipped
+[11.695s] -- Detecting C compile features
+[11.725s] -- Detecting C compile features - done
+[11.744s] -- Detecting CXX compiler ABI info
+[12.043s] -- Detecting CXX compiler ABI info - done
+[12.053s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[12.053s] -- Detecting CXX compile features
+[12.054s] -- Detecting CXX compile features - done
+[12.247s] [31mCMake Error at CMakeLists.txt:19 (find_package):
+[12.248s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[12.248s]   has asked CMake to find a package configuration file provided by
+[12.249s]   "ament_cmake", but CMake did not find one.
+[12.250s] 
+[12.250s]   Could not find a package configuration file provided by "ament_cmake" with
+[12.251s]   any of the following names:
+[12.251s] 
+[12.252s]     ament_cmakeConfig.cmake
+[12.253s]     ament_cmake-config.cmake
+[12.253s] 
+[12.254s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[12.254s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[12.255s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[12.256s]   has been installed.
+[12.256s] 
+[12.257s] [0m
+[12.258s] -- Configuring incomplete, errors occurred!
+[12.258s] See also "/home/massiel/Scientific_Research_Project/build/custom_interfaces/CMakeFiles/CMakeOutput.log".
+[12.265s] Invoked command in '/home/massiel/Scientific_Research_Project/build/custom_interfaces' returned '1': /usr/bin/cmake /home/massiel/Scientific_Research_Project/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/massiel/Scientific_Research_Project/install/custom_interfaces

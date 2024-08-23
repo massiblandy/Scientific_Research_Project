@@ -1,0 +1,33 @@
+[0.064s] Invoking command in '/home/massiel/Scientific_Research_Project/build/dynamixel_sdk': /usr/bin/cmake /home/massiel/Scientific_Research_Project/src/robotis_ws/src/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/massiel/Scientific_Research_Project/install/dynamixel_sdk
+[5.700s] -- The C compiler identification is GNU 11.4.0
+[10.184s] -- The CXX compiler identification is GNU 11.4.0
+[10.629s] -- Detecting C compiler ABI info
+[11.634s] -- Detecting C compiler ABI info - done
+[11.652s] -- Check for working C compiler: /usr/bin/cc - skipped
+[11.660s] -- Detecting C compile features
+[11.690s] -- Detecting C compile features - done
+[11.708s] -- Detecting CXX compiler ABI info
+[12.003s] -- Detecting CXX compiler ABI info - done
+[12.020s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[12.021s] -- Detecting CXX compile features
+[12.022s] -- Detecting CXX compile features - done
+[12.261s] [31mCMake Error at CMakeLists.txt:18 (find_package):
+[12.261s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[12.262s]   has asked CMake to find a package configuration file provided by
+[12.263s]   "ament_cmake", but CMake did not find one.
+[12.263s] 
+[12.264s]   Could not find a package configuration file provided by "ament_cmake" with
+[12.264s]   any of the following names:
+[12.265s] 
+[12.265s]     ament_cmakeConfig.cmake
+[12.266s]     ament_cmake-config.cmake
+[12.266s] 
+[12.266s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[12.267s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[12.267s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[12.267s]   has been installed.
+[12.268s] 
+[12.268s] [0m
+[12.268s] -- Configuring incomplete, errors occurred!
+[12.269s] See also "/home/massiel/Scientific_Research_Project/build/dynamixel_sdk/CMakeFiles/CMakeOutput.log".
+[12.282s] Invoked command in '/home/massiel/Scientific_Research_Project/build/dynamixel_sdk' returned '1': /usr/bin/cmake /home/massiel/Scientific_Research_Project/src/robotis_ws/src/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/massiel/Scientific_Research_Project/install/dynamixel_sdk
