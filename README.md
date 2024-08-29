@@ -71,7 +71,7 @@ After running the detection code (detect.py), the camera will open, and images l
 
 ---
 ## Results
-The results of this project demonstrated the effectiveness of the implemented algorithm in detecting visual landmarks on the soccer field and accurately calculating the distance between the robot and these landmarks. The system exhibited robustness across different lighting conditions and varying perspectives, significantly enhancing the humanoid robot's localization and decision-making capabilities. A demonstration video showcasing the project's results in landmark detection and distance calculation between the robot and the landmarks can be found at the following [YouTube link]([https://github.com/massiblandy](https://youtu.be/ggnsLBd2Y20?si=U-1l7v962kt24NGU)).
+The results of this project demonstrated the effectiveness of the implemented algorithm in detecting visual landmarks on the soccer field and accurately calculating the distance between the robot and these landmarks. The system exhibited robustness across different lighting conditions and varying perspectives, significantly enhancing the humanoid robot's localization and decision-making capabilities. A demonstration video showcasing the project's results in landmark detection and distance calculation between the robot and the landmarks can be found at the following [YouTube link](https://github.com/massiblandy](https://youtu.be/ggnsLBd2Y20?si=U-1l7v962kt24NGU).
 
 ---
 ## Acknowledgements
