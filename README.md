@@ -66,7 +66,7 @@ After running the detection code (detect.py), the camera will open, and images l
   <img src="imgs/img6.png" />
 </p>
 <p align="center">
-  <img src="imgs/img7.JPG" />
+  <img src="imgs/img2.jpeg" />
 </p>
 
 ---
