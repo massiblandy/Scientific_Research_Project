@@ -60,13 +60,13 @@ source install/setup.bash
 
 After running the detection code (detect.py), the camera will open, and images like the ones presented below should appear. The code will start measuring the distance between the robot and the landmark when the landmark is centralized in the camera's vertical axis.
 <p align="center">
-  <img src="imgs/img2.jpeg" />
+  <img src="imgs/img5.jpeg" />
 </p>
 <p align="center">
-  <img src="imgs/img3.jpeg" />
+  <img src="imgs/img6.jpeg" />
 </p>
 <p align="center">
-  <img src="imgs/img4.jpeg" />
+  <img src="imgs/img7.jpeg" />
 </p>
 
 ---
